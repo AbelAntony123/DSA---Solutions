@@ -3,7 +3,7 @@
 This repository contains my solutions to Data Structures and Algorithms (DSA) problems, implemented as part of my Winter Break Placement Readiness preparation.
 
 ## 📌 Languages Used
-- Java / C / Python (mention what you actually use)
+- Java
 
 ## 📊 Problem Coverage
 - Basics & Logic
